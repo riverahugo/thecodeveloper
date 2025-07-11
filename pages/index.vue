@@ -7,7 +7,6 @@ import TypingText from '~/components/TypingText.vue';
   <div class="container">
     <div class="content">
       <TypingText/>
-      <p>¡Hola desde index.vue!</p>
     </div>
   </div>
 </template>
