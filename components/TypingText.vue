@@ -11,7 +11,7 @@ const el = ref(null)
 onMounted(() => {
   const typed = new Typed(el.value, {
     strings: [
-      '🚀 Proximamente...',
+      '🚀 Próximamente...',
       '🌐 ¡The Codeveloper!',
     ],
     typeSpeed: 50,
