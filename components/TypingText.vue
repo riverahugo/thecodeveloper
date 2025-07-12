@@ -13,6 +13,7 @@ onMounted(() => {
     strings: [
       '🚀 Próximamente...',
       '🌐 ¡The Codeveloper!',
+      '</> Hugo Rivera Dijeres'
     ],
     typeSpeed: 50,
     backSpeed: 25,
