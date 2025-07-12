@@ -8,11 +8,6 @@
     },
     {
       "route": "/*",
-      "statusCode": 301,
-      "redirect": "https://www.thecodeveloper.com"
-    },
-    {
-      "route": "/*",
       "rewrite": "/index.html"
     }
   ]
